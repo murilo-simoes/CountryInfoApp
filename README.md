@@ -17,7 +17,7 @@ To start the installation you have to clone the repositóry in your local
   https://github.com/murilo-simoes/CountryInfoApp.git
 ```
 
-In the folder 'CountryInfoAppWeb', you have to create a .env file with the following content
+Inside the folder 'CountryInfoAppWeb' you have to create a .env file with the following content
 
 ```bash
  NEXT_PUBLIC_API_URL=http://localhost:3333
