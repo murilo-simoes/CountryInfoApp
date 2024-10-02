@@ -1,0 +1,51 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.wrapper{
+    width: 80%;
+    max-width: 70rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 2rem;
+    border-top: 1px solid #5c808b7a;
+    border-bottom: 1px solid #5c808b7a;
+}
+
+.countryName{
+    font-size: 4rem;
+    margin-right: 5rem;
+    padding: 0;
+}
+
+.countryFlagDiv{
+    width: 30%;
+}
+
+.countryFlag{
+    object-fit:cover;
+    width: 100%;
+    height: 100%;
+
+}
+
+@media screen and (max-width:750px) {
+    .wrapper{
+        flex-direction: column;
+        justify-content: center;
+        width: 90%;
+    }
+    .countryFlagDiv{
+        width: 50%;
+    }
+    .countryName{
+        margin: 0;
+        font-size: 3rem;
+    }
+}
