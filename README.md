@@ -1,6 +1,6 @@
 # Country Info App
 
-To run this project you have to have installed Node in you local computer.
+To run this project you need to have installed Node in you local computer.
 
 ## Tecnologies
 
