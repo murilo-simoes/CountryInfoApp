@@ -1,5 +1,7 @@
 # Country Info App
 
+To run this project you have to have installed Node in you local computer.
+
 ## Tecnologies
 
   - `Node.Js`
