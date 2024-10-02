@@ -13,13 +13,15 @@ To run this project you need to have installed Node in you local computer.
 
 ## Instalation
 
-To start the installation you have to clone the repositóry in your local
+To start the installation you have to clone the repository in your local computer
+
+Open a terminal and run the following command
 
 ```bash
   https://github.com/murilo-simoes/CountryInfoApp.git
 ```
 
-Inside the folder 'CountryInfoAppWeb' you have to create a .env file with the following content
+Inside the folder 'CountryInfoAppWeb' you have to create a .env file in the root and paste the following content
 
 ```bash
  NEXT_PUBLIC_API_URL=http://localhost:3333
