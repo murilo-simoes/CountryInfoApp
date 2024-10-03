@@ -18,7 +18,7 @@ To start the installation you have to clone the repository in your local compute
 Open a terminal and run the following command
 
 ```bash
-  https://github.com/murilo-simoes/CountryInfoApp.git
+  git clone https://github.com/murilo-simoes/CountryInfoApp.git
 ```
 
 Inside the folder 'CountryInfoAppWeb' you have to create a .env file in the root and paste the following content
