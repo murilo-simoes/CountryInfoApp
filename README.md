@@ -2,7 +2,7 @@
 
 To run this project you need to have installed Node in you local computer.
 
-## Tecnologies
+## Technologies
 
   - `Node.Js`
   - `Express.Js`
